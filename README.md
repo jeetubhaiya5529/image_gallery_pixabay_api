@@ -40,24 +40,24 @@ dependencies:
     sdk: flutter
   http: ^0.14.0
   flutter_riverpod: ^2.3.0
-
+```
 ## Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/image_gallery_pixabay_api.git
-
+```
 ### 2. Install Dependencies
 
 ```bash
 flutter pub get
-
+```
 ### 3. Run the App
 
 ```bash
 flutter run
-
+```
 
 ## Project Structure
 
@@ -69,7 +69,7 @@ lib/
 ├── provider/gallery_provider.dart 
 └── service/api_service.dart 
 └── screens/gallery_screen.dart
-
+```
 ## Riverpod for State Management
 
 The app uses Riverpod to manage the state of the photo gallery:
